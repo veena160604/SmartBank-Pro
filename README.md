@@ -1,2 +1,18 @@
-# SmartBank-Pro
-A simple and secure banking system built using Java that allows users to create accounts, deposit and withdraw money, and transfer funds. The project uses SQLite for data storage, so no external database setup is required. It demonstrates core banking operations, clean code structure, and basic transaction management.
+# SmartBank Pro (SQLite Version)
+
+A Java-based Bank Management System using SQLite (no installation needed).
+
+## Features
+- User Management
+- Account Handling
+- Deposit / Withdraw / Transfer
+- Auto database setup
+
+## Tech Stack
+- Java
+- SQLite
+- JDBC
+
+## How to Run
+1. Just run Main.java
+2. Database will be created automatically
